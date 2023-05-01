@@ -1,0 +1,17 @@
+.btnMenu{
+    background-color: orange;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 7rem;
+    height: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-right-radius: 100%;
+    cursor: pointer;
+    svg{
+        width: 1.37rem;
+        fill: white;
+    }
+}
